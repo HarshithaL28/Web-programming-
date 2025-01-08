@@ -1,5 +1,5 @@
 # Web-programming-
-The TOPICS cover's are:
+The TOPICS covered are:
    HTML
    CSS
    JAVASCRIPT 
